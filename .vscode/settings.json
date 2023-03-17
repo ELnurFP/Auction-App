@@ -1,0 +1,12 @@
+{
+  "background.fullscreen": {
+   //"image": "https://images.hdqwalls.com/download/rain-makes-me-sad-by-2880x1800.jpg",
+   
+"image": "https://images.unsplash.com/photo-1510782977572-76493a0a7f57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80", // white girl
+ //"image": "https://wallpapercave.com/uwp/uwp1837438.png"  , //itachi
+  //"image": "https://images4.alphacoders.com/296/296028.jpg", // url of your image
+  "opacity": 0.80, // 0.85 ~ 0.95 recommended
+  "size": "cover" // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
+  },
+  "dart.flutterSdkPath": "C:\\Users\\CustomAR Design\\fvm\\versions\\2.10.0"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6708943963",
+    "project_id": "qobustan-bec00",
+    "storage_bucket": "qobustan-bec00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6708943963:android:f5724faacb34d8daf6737e",
+        "android_client_info": {
+          "package_name": "com.agroservice.qobustan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6708943963-ruc1hf5dtdecb62ao34v7meg1nc1qjso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMFj134b345a60Vr0Xi9JBB00ZJHTpGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6708943963-ruc1hf5dtdecb62ao34v7meg1nc1qjso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
